@@ -27,6 +27,6 @@ Magnate Code Solutions is a Software Engineering Company dedicated to helping bu
 We'd love to hear about your project and how we can help! Contact us today to discuss your business needs. 🎉
 
 - 🌐 **Website**: [Coming Soon]
-- 📧 **Email**: contact@magnatecodesolutions.com
+- 📧 **Email**: magnatecodesolutions@gmail.com
 - 🔗 **LinkedIn**: [Coming Soon]
 
